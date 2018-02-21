@@ -1,2 +1,13 @@
 # SolarBatterySwitch
-Monitor and control lights, window blinds, with battery and charge controller using voice.
+
+This is Aruduino Yun sketch for Smart Home project.
+
+The Solar Switch is an automated switch / battery monitor that responds to voice command to operate DC / AC devices. 
+
+    * Automate solar battery bank charging when voltage falls below fixed level at night
+    * Operates DIY Window Blinds with stepper motor.
+    * Automatically close blinds at night and turn on Lights 
+    * Turn on/off  Window Blinds, LED, charger, alarm, and other AC devices with Amazon Echo 
+
+For instructions to build hardware, go to:
+http://www.hackster.io/projects/f24118/
